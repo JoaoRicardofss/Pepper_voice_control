@@ -1,0 +1,7 @@
+To Run the scripts start by copying them into the same directory.
+
+Start by using choregraphe to deactivate the autonomous life of the robot. Make sure the IP_adress is adjusted to your robot. 
+In case you don't know the IP, connect to the same network as the robot and click on pepper power button once.
+
+
+To Run the Voice command script run the script of the file called "autonomouslife". The eyes of the robot shall change to blue and it should follow the define orders.
